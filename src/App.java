@@ -1,9 +1,9 @@
 /*
 * File: App.java
 * Author: Molnár Csenge Anna
-* Copyright: 2023-04-04, Molnár Csenge Anna
+* Copyright: 2023, Molnár Csenge Anna
 * Group: Szoft I-1-N
-* Date: 2021-09-03
+* Date: 2023-04-04
 * Github: https://github.com/Verfarkas02/s1n_lapatlofx.git
 * Licenc: GUI
 */
